@@ -129,19 +129,19 @@ html,body{
 	border-radius: 5px;
 }
 .headad li.item1{
-	background: url(./ima/adbg_01.png) no-repeat;
+	background: url(../ima/adbg_01.png) no-repeat;
 }
 .headad li.item2{
-	background: url(./ima/adbg_02.png) no-repeat;
+	background: url(../ima/adbg_02.png) no-repeat;
 }
 .headad li.item3{
-	background: url(./ima/adbg_03.png) no-repeat;
+	background: url(../ima/adbg_03.png) no-repeat;
 }
 .headad li.item4{
-	background: url(./ima/adbg_04.png) no-repeat;
+	background: url(../ima/adbg_04.png) no-repeat;
 }
 .headad li.item5{
-	background: url(./ima/adbg_05.png) no-repeat;
+	background: url(../ima/adbg_05.png) no-repeat;
 	margin-right: 0;
 }
 /*头部搜索区*/
@@ -154,7 +154,7 @@ html,body{
 	display: block;
 	width: 190px;
 	height: 58px;
-	background: url(./ima/logo.png) center no-repeat;
+	background: url(../ima/logo.png) center no-repeat;
 	text-indent:-9999px;
 	overflow: hidden;
 	margin-top: 8px;
@@ -316,7 +316,7 @@ html,body{
 	position: absolute;
 	width: 23px;
 	height: 13px;
-	background-image: url(ima/ico_01.gif);
+	background-image: url(../ima/ico_01.gif);
 	top: -13px;
 	left: 50%;
 	margin-left: -12px;
@@ -384,7 +384,7 @@ html,body{
 	border:none;
 	background-color: rgba(0,0,0,0.3); /*  兼容情况：IE9+ */
 
-	background-color: #000\9;  /* IE9以下的浏览器认识 */
+	background-color: #000;  /* IE9以下的浏览器认识 */
 	filter: alpha(opacity=30) ; /* 透明度 */
 
 	position: absolute;
@@ -446,7 +446,7 @@ html,body{
 	line-height: 17px;
 }
 .firstleft .img2box .pictitle .text .bg{
-	background: url(ima/title_bg.png) no-repeat left;
+	background: url(../ima/title_bg.png) no-repeat left;
 	padding-left: 136px;
 	color: #666;
 }
@@ -501,7 +501,7 @@ html,body{
 .firstleft .news .hd h3{
 	width: 129px;
 	height: 26px;
-	background: url(ima/news_logo.png) no-repeat;
+	background: url(../ima/news_logo.png) no-repeat;
 	text-indent: -9999px;
 	overflow: hidden;	
 }
@@ -561,7 +561,7 @@ html,body{
 .firstright .user{
 	height: 140px;
 	padding-top:5px;
-	background-image: url(ima/user_bg.png);
+	background-image: url(../ima/user_bg.png);
 } 
 .firstright .user .avatar{
 	display: block;
@@ -593,10 +593,10 @@ html,body{
 
 }
 .firstright .user .members a.gold{
-	background: #ffe4dc url(ima/ico.png) 0 -572px no-repeat;
+	background: #ffe4dc url(../ima/ico.png) 0 -572px no-repeat;
 }
 .firstright .user .members a.club{
-	background: #ffe4dc url(ima/ico.png) 0 -528px no-repeat;
+	background: #ffe4dc url(../ima/ico.png) 0 -528px no-repeat;
 }
 .firstright .user .btn{
 	text-align: center;
